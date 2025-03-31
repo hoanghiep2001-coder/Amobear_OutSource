@@ -185,11 +185,12 @@ export default class Board extends cc.Component {
 
 
   generateLayerShelves() {
-    this.shelfContainer.scale = 0.9;
-    this.itemContainer.scale = 0.9;
+    this.shelfContainer.scale = 0.6;
+    this.itemContainer.scale = 0.6;
     const size: cc.Size = this.shelfPrefab.data.getContentSize();
     const { row, col } = levelConfig;
-
+    console.log(this.node.children);
+    
     let possiblePositions: { i: number, j: number }[] = [];
 
     for (let i = 0; i < row; i++) {
@@ -390,17 +391,15 @@ export default class Board extends cc.Component {
     }
   }
 
-  shuffleArray<T>(array: T[]): T[] {
-    for (let i = array.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [array[i], array[j]] = [array[j], array[i]];
-    }
-    return array;
-  }
 
   _isCallCompleteGen: boolean = false;
+
+  isClickedStartCart: boolean = false;
   handleCompleteGenerate() {
     if(this._isCallCompleteGen) return;
+
+    if(ConfigData.OutSource.isHasCart && !this.isClickedStartCart) return;
+
     this.boardState = BoardState.Playing;
     this._isCallCompleteGen = true;
     this.shelfContainer.children.reverse().forEach((child, index) => {

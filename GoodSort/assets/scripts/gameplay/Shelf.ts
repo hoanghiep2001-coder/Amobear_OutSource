@@ -101,7 +101,7 @@ export default class Shelf extends cc.Component {
     );
     const itemPos = parent.convertToNodeSpaceAR(tempPos);
     item.node.setParent(parent);
-    item.node.setPosition(itemPos);
+    !ConfigData.OutSource.isHasCart && item.node.setPosition(itemPos)
 
     const behindPos = parent.convertToNodeSpaceAR(tempBehindPos);
 
@@ -112,7 +112,8 @@ export default class Shelf extends cc.Component {
       item.setSlot(this.slots[positionIndex]);
     }
 
-    item.handleMoveToBehind(behindPos, layer);
+    // item.handleMoveToBehind(behindPos, layer);
+    ConfigData.OutSource.isHasCart ? item.itemPos = behindPos : item.handleMoveToBehind(behindPos, layer);
     item.setIndex(positionIndex);
     // item.node.setScale(0.1, 0.1);
     return item;

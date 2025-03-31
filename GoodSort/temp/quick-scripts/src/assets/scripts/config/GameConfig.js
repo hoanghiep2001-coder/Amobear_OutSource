@@ -32,7 +32,7 @@ var ConfigData = /** @class */ (function () {
     function ConfigData() {
     }
     ConfigData.Game = {
-        isEnableSound: true,
+        isEnableSound: false,
         isShowEndCard: false,
         isCanClick: false,
         isPlaying: false,
@@ -52,6 +52,9 @@ var ConfigData = /** @class */ (function () {
         shelf: [],
         shelfExplosionCount: 0,
         shelfEatenCount: 0,
+    };
+    ConfigData.OutSource = {
+        isHasCart: true,
     };
     ConfigData.Helper = {
         maxRocketCanSpawn: 4,

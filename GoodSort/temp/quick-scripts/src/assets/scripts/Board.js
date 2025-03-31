@@ -57,6 +57,7 @@ var Board = /** @class */ (function (_super) {
         _this.firstMatchId = -1;
         _this.AdsManager = null;
         _this._isCallCompleteGen = false;
+        _this.isClickedStartCart = false;
         return _this;
     }
     Board_1 = Board;
@@ -150,10 +151,11 @@ var Board = /** @class */ (function (_super) {
     Board.prototype.generateLayerShelves = function () {
         var _a;
         var _this = this;
-        this.shelfContainer.scale = 0.9;
-        this.itemContainer.scale = 0.9;
+        this.shelfContainer.scale = 0.6;
+        this.itemContainer.scale = 0.6;
         var size = this.shelfPrefab.data.getContentSize();
         var row = GameConfig_1.levelConfig.row, col = GameConfig_1.levelConfig.col;
+        console.log(this.node.children);
         var possiblePositions = [];
         for (var i = 0; i < row; i++) {
             for (var j = 0; j < col; j++) {
@@ -340,17 +342,11 @@ var Board = /** @class */ (function (_super) {
             _loop_3(layer);
         }
     };
-    Board.prototype.shuffleArray = function (array) {
-        var _a;
-        for (var i = array.length - 1; i > 0; i--) {
-            var j = Math.floor(Math.random() * (i + 1));
-            _a = [array[j], array[i]], array[i] = _a[0], array[j] = _a[1];
-        }
-        return array;
-    };
     Board.prototype.handleCompleteGenerate = function () {
         var _this = this;
         if (this._isCallCompleteGen)
+            return;
+        if (GameConfig_1.ConfigData.OutSource.isHasCart && !this.isClickedStartCart)
             return;
         this.boardState = BoardState.Playing;
         this._isCallCompleteGen = true;

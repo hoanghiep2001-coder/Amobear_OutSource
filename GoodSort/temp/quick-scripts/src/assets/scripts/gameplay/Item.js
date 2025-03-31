@@ -37,8 +37,9 @@ var Item = /** @class */ (function (_super) {
         _this.isLock = false;
         _this.nearestSlot = null;
         _this.touching = false;
-        // V39
-        _this._isHasRocket = false;
+        // PA_02
+        _this.itemPos = null;
+        _this.itemRotate = null;
         _this._Config = null;
         _this._Board = null;
         // this.initialTouchPos = new cc.Vec2(localTouchPos.x, localTouchPos.y);

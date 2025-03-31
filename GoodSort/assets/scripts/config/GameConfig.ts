@@ -27,7 +27,7 @@ export const adConfig = {
 
 export class ConfigData {
   static Game = {
-    isEnableSound: true,
+    isEnableSound: false,
     isShowEndCard: false,
     isCanClick: false,
     isPlaying: false,
@@ -47,6 +47,9 @@ export class ConfigData {
     shelf: [],
     shelfExplosionCount: 0,
     shelfEatenCount: 0,
+  }
+  static OutSource = {
+    isHasCart: true,
   }
   static Helper = {
     maxRocketCanSpawn: 4,

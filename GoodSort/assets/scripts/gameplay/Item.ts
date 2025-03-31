@@ -28,8 +28,9 @@ export default class Item extends cc.Component {
   private touching = false;
 
 
-  // V39
-  _isHasRocket: boolean = false;
+  // PA_02
+  itemPos: cc.Vec2 = null;
+  itemRotate: number = null;
 
 
   start() {
