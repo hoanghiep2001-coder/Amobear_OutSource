@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SPIDER WEB",
+    "texture": "21a1c2ae-43af-4b2a-8690-75c06c0aa523",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      727,
+      541
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      727,
+      541
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "0f0bd9c7-8def-470f-8b77-8983ea96e04a",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 71,
+  "height": 196,
+  "platformSettings": {},
+  "subMetas": {
+    "WineBottle1_Purple": {
+      "ver": "1.0.6",
+      "uuid": "7713cc17-5225-488c-8956-c6c7df4e8a73",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "0f0bd9c7-8def-470f-8b77-8983ea96e04a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 71,
+      "height": 196,
+      "rawWidth": 71,
+      "rawHeight": 196,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

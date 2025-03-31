@@ -1,0 +1,205 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ChooseLevelAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "ItemK/K": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "4713da95-bb5f-448c-ba26-15cb55f341e1"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": {
+                  "__uuid__": "adac6337-b34e-4dde-b324-c4dd1b3e272a"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "a4ab2430-596c-4463-a3ec-20689cf0bb1f"
+                }
+              },
+              {
+                "frame": 1.5,
+                "value": {
+                  "__uuid__": "d87a8bff-c99f-443a-8c82-bcc8999d23b8"
+                }
+              },
+              {
+                "frame": 2,
+                "value": {
+                  "__uuid__": "23b7ac50-5993-47df-bf0c-4c13c30fae60"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "ItemF/F": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "d87a8bff-c99f-443a-8c82-bcc8999d23b8"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": {
+                  "__uuid__": "23b7ac50-5993-47df-bf0c-4c13c30fae60"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "4713da95-bb5f-448c-ba26-15cb55f341e1"
+                }
+              },
+              {
+                "frame": 1.5,
+                "value": {
+                  "__uuid__": "adac6337-b34e-4dde-b324-c4dd1b3e272a"
+                }
+              },
+              {
+                "frame": 2,
+                "value": {
+                  "__uuid__": "a4ab2430-596c-4463-a3ec-20689cf0bb1f"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "ItemV/V": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "a4ab2430-596c-4463-a3ec-20689cf0bb1f"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": {
+                  "__uuid__": "d87a8bff-c99f-443a-8c82-bcc8999d23b8"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "23b7ac50-5993-47df-bf0c-4c13c30fae60"
+                }
+              },
+              {
+                "frame": 1.5,
+                "value": {
+                  "__uuid__": "4713da95-bb5f-448c-ba26-15cb55f341e1"
+                }
+              },
+              {
+                "frame": 2,
+                "value": {
+                  "__uuid__": "adac6337-b34e-4dde-b324-c4dd1b3e272a"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "ItemC/C": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "adac6337-b34e-4dde-b324-c4dd1b3e272a"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": {
+                  "__uuid__": "a4ab2430-596c-4463-a3ec-20689cf0bb1f"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "d87a8bff-c99f-443a-8c82-bcc8999d23b8"
+                }
+              },
+              {
+                "frame": 1.5,
+                "value": {
+                  "__uuid__": "23b7ac50-5993-47df-bf0c-4c13c30fae60"
+                }
+              },
+              {
+                "frame": 2,
+                "value": {
+                  "__uuid__": "4713da95-bb5f-448c-ba26-15cb55f341e1"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "ItemA/A": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "23b7ac50-5993-47df-bf0c-4c13c30fae60"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": {
+                  "__uuid__": "4713da95-bb5f-448c-ba26-15cb55f341e1"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "adac6337-b34e-4dde-b324-c4dd1b3e272a"
+                }
+              },
+              {
+                "frame": 1.5,
+                "value": {
+                  "__uuid__": "a4ab2430-596c-4463-a3ec-20689cf0bb1f"
+                }
+              },
+              {
+                "frame": 2,
+                "value": {
+                  "__uuid__": "d87a8bff-c99f-443a-8c82-bcc8999d23b8"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

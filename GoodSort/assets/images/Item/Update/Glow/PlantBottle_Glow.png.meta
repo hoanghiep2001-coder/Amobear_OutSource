@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e5e73a92-3766-43d4-bff3-6af2aab2b3b9",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 104,
+  "height": 172,
+  "platformSettings": {},
+  "subMetas": {
+    "PlantBottle_Glow": {
+      "ver": "1.0.6",
+      "uuid": "0185251f-1421-4756-8ea3-abc05a6cf52c",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e5e73a92-3766-43d4-bff3-6af2aab2b3b9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 104,
+      "height": 172,
+      "rawWidth": 104,
+      "rawHeight": 172,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

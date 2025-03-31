@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d7221324-b378-48a0-abe3-2cd0f8f2ea68",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 117,
+  "height": 215,
+  "platformSettings": {},
+  "subMetas": {
+    "Ukulele_Glow": {
+      "ver": "1.0.6",
+      "uuid": "9a1d57df-2708-4e1f-8587-b11500ace007",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d7221324-b378-48a0-abe3-2cd0f8f2ea68",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 117,
+      "height": 215,
+      "rawWidth": 117,
+      "rawHeight": 215,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

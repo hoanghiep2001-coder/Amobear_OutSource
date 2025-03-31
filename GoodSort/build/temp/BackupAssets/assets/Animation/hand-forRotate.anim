@@ -1,0 +1,16 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hand-forRotate",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "props": {
+      "position": []
+    }
+  },
+  "events": []
+}

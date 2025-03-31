@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "089b9908-8b02-48ec-b2f1-7f205fd9d74e",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 104,
+  "height": 152,
+  "platformSettings": {},
+  "subMetas": {
+    "Harp": {
+      "ver": "1.0.6",
+      "uuid": "a7642cff-d72e-4244-a35a-20ec872b0917",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "089b9908-8b02-48ec-b2f1-7f205fd9d74e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 104,
+      "height": 152,
+      "rawWidth": 104,
+      "rawHeight": 152,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

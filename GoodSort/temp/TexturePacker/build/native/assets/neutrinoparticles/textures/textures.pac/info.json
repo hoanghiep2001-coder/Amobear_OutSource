@@ -1,0 +1,1987 @@
+{
+  "projectPath": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort",
+  "actualPlatform": "web-mobile",
+  "mtimes": {
+    "a0b2248f-8fdf-4295-889a-38f2012cf28d": {
+      "assetMtime": 1743260442302,
+      "metaMtime": 1743260532508
+    },
+    "10e97b3d-9782-4db3-b446-d47a0bc02194": {
+      "assetMtime": 1743260442269,
+      "metaMtime": 1743260533984
+    },
+    "66cd6bef-7e35-4547-9fc2-da92e36ed031": {
+      "assetMtime": 1743260442269,
+      "metaMtime": 1743260533984
+    },
+    "20af2a73-7290-4379-8250-47f4df2b980d": {
+      "assetMtime": 1743260442279,
+      "metaMtime": 1743260533792
+    },
+    "c85daa1e-c673-4c77-b80a-d674b8d80533": {
+      "assetMtime": 1743260442279,
+      "metaMtime": 1743260533792
+    },
+    "22671f9c-df4b-440d-9c86-082f95568363": {
+      "assetMtime": 1743260442290,
+      "metaMtime": 1743260533886
+    },
+    "0b55155d-19fe-4f8b-8007-3824570013b3": {
+      "assetMtime": 1743260442290,
+      "metaMtime": 1743260533886
+    },
+    "2dfd22d8-0b52-4f29-96b6-729b87b758f2": {
+      "assetMtime": 1743260442277,
+      "metaMtime": 1743260533772
+    },
+    "6d1f7cd1-d801-43cb-8b12-a6f19e9274bb": {
+      "assetMtime": 1743260442277,
+      "metaMtime": 1743260533772
+    },
+    "3b26ce77-bc39-48e3-a780-64b60e0bd89e": {
+      "assetMtime": 1743260442301,
+      "metaMtime": 1743260532957
+    },
+    "71adf51d-6b95-4207-8de7-9f06579af3de": {
+      "assetMtime": 1743260442301,
+      "metaMtime": 1743260532957
+    },
+    "3dd7e2ea-f03c-4846-9c76-10402956e231": {
+      "assetMtime": 1743260442275,
+      "metaMtime": 1743260533297
+    },
+    "5ac9b038-99b9-4d0c-843c-b8bed0996bf4": {
+      "assetMtime": 1743260442275,
+      "metaMtime": 1743260533297
+    },
+    "3e4993d9-33e7-4db4-a15a-fd22b4a04e30": {
+      "assetMtime": 1743260442284,
+      "metaMtime": 1743260533816
+    },
+    "647a6391-dc62-4681-9f8f-a50d12ba8c9a": {
+      "assetMtime": 1743260442284,
+      "metaMtime": 1743260533816
+    },
+    "4152fc10-0d12-4f85-98e9-e218adea734d": {
+      "assetMtime": 1743260442295,
+      "metaMtime": 1743260533924
+    },
+    "26b2a039-d1a4-4328-b7ff-9c6be6d05181": {
+      "assetMtime": 1743260442295,
+      "metaMtime": 1743260533924
+    },
+    "42e0881d-15e4-4c9e-a206-f0d3535ac21c": {
+      "assetMtime": 1743260442285,
+      "metaMtime": 1743260533824
+    },
+    "f5618038-f996-4f47-92d4-131dd61ca418": {
+      "assetMtime": 1743260442285,
+      "metaMtime": 1743260533824
+    },
+    "46b0fb92-5db1-457a-a591-11bab41f5aeb": {
+      "assetMtime": 1743260442271,
+      "metaMtime": 1743260532712
+    },
+    "97f75cde-6580-4a27-a15e-3fa0f0b6f2ab": {
+      "assetMtime": 1743260442271,
+      "metaMtime": 1743260532712
+    },
+    "492aefc2-e950-4861-b5ca-e6fc0ce16d5c": {
+      "assetMtime": 1743260442280,
+      "metaMtime": 1743260533784
+    },
+    "239b6300-1bb4-49e2-955c-da94b9d5f84e": {
+      "assetMtime": 1743260442280,
+      "metaMtime": 1743260533784
+    },
+    "4ad0caf8-e5d4-49c4-9879-2eb7cc88b16a": {
+      "assetMtime": 1743260442299,
+      "metaMtime": 1743260533970
+    },
+    "4b089ec5-f8a1-4ead-aa4d-98f63407ed70": {
+      "assetMtime": 1743260442299,
+      "metaMtime": 1743260533970
+    },
+    "4cc1c4e9-6e46-47ff-a2eb-7f8a9db96676": {
+      "assetMtime": 1743260442273,
+      "metaMtime": 1743260532728
+    },
+    "03949ccd-d085-4b35-8690-945621f29525": {
+      "assetMtime": 1743260442273,
+      "metaMtime": 1743260532728
+    },
+    "4d4ceeb4-b5fe-475b-a886-b3aa09bc38e9": {
+      "assetMtime": 1743260442299,
+      "metaMtime": 1743260533972
+    },
+    "7fbabba4-4a8c-4564-bfc7-d9a00419b9d3": {
+      "assetMtime": 1743260442299,
+      "metaMtime": 1743260533972
+    },
+    "4ed1dc59-b8ce-4304-a6d0-f552a3a243cf": {
+      "assetMtime": 1743260442295,
+      "metaMtime": 1743260533930
+    },
+    "64fa98b4-2b4e-426d-b9d8-a913521eb2ba": {
+      "assetMtime": 1743260442295,
+      "metaMtime": 1743260533930
+    },
+    "4f6757e3-0574-4e02-a149-98a5fa996b35": {
+      "assetMtime": 1743260442291,
+      "metaMtime": 1743260533898
+    },
+    "386f4aec-52bd-4485-b9f3-8570f921aff1": {
+      "assetMtime": 1743260442291,
+      "metaMtime": 1743260533898
+    },
+    "54c4dbca-afdf-425b-9245-d6ff74a0ee0b": {
+      "assetMtime": 1743260442293,
+      "metaMtime": 1743260533926
+    },
+    "94cabffd-62a4-4dab-8a77-54116ff4f9b9": {
+      "assetMtime": 1743260442293,
+      "metaMtime": 1743260533926
+    },
+    "5b96ddb5-144b-48cb-85e8-2afa0f2c54b6": {
+      "assetMtime": 1743260442269,
+      "metaMtime": 1743260533984
+    },
+    "8e5298b0-1eb8-4d7b-bff1-f388ebadebe6": {
+      "assetMtime": 1743260442269,
+      "metaMtime": 1743260533984
+    },
+    "5f95a789-71fb-4cd0-9553-d02d90b6f554": {
+      "assetMtime": 1743260442290,
+      "metaMtime": 1743260533884
+    },
+    "ba039c49-31f6-4d12-890e-d2ed54e32230": {
+      "assetMtime": 1743260442290,
+      "metaMtime": 1743260533884
+    },
+    "60347c6c-fb02-4455-a811-eacf6481b802": {
+      "assetMtime": 1743260442284,
+      "metaMtime": 1743260533820
+    },
+    "4b9d3003-5be7-4d34-b692-75b71701ed9a": {
+      "assetMtime": 1743260442284,
+      "metaMtime": 1743260533820
+    },
+    "639dce69-3fec-4f31-a29d-0daf9cd8e5c0": {
+      "assetMtime": 1743260442269,
+      "metaMtime": 1743260533972
+    },
+    "c66ccfc5-0909-4957-92f9-2775ba842d80": {
+      "assetMtime": 1743260442269,
+      "metaMtime": 1743260533972
+    },
+    "6a102a95-8da3-4ecc-a543-29b8e9e5c2d4": {
+      "assetMtime": 1743260442282,
+      "metaMtime": 1743260533796
+    },
+    "3d3987eb-47c6-43b1-9d63-92bf24a0458f": {
+      "assetMtime": 1743260442282,
+      "metaMtime": 1743260533796
+    },
+    "6f4f02da-618b-40af-9abc-21ababdb6648": {
+      "assetMtime": 1743260442283,
+      "metaMtime": 1743260533806
+    },
+    "7f135fe8-8f80-4b78-8ab1-fcdb46d82e64": {
+      "assetMtime": 1743260442283,
+      "metaMtime": 1743260533806
+    },
+    "6f8a3314-a096-4258-814e-548c2113835c": {
+      "assetMtime": 1743260442290,
+      "metaMtime": 1743260533878
+    },
+    "42ea5b51-afac-4a77-80c9-1e7a5b1218d8": {
+      "assetMtime": 1743260442290,
+      "metaMtime": 1743260533878
+    },
+    "6f950ff8-5705-4224-a5cb-137bd3bd0a66": {
+      "assetMtime": 1743260442286,
+      "metaMtime": 1743260533840
+    },
+    "d4d36426-a43b-45b4-8025-d67c9de24b1a": {
+      "assetMtime": 1743260442286,
+      "metaMtime": 1743260533840
+    },
+    "71dc9727-2e1d-4afa-825b-5baeb9cfbd22": {
+      "assetMtime": 1743260442282,
+      "metaMtime": 1743260533798
+    },
+    "035cda90-802f-487d-9eb3-180ed2357adc": {
+      "assetMtime": 1743260442282,
+      "metaMtime": 1743260533798
+    },
+    "764710a3-00d2-4abf-aad7-75d9d04e6f63": {
+      "assetMtime": 1743260442296,
+      "metaMtime": 1743260533934
+    },
+    "f54a06bf-933c-4772-88df-4fc34a6ba04b": {
+      "assetMtime": 1743260442296,
+      "metaMtime": 1743260533934
+    },
+    "76d3c262-db60-44a4-92f6-7ef3da463b4f": {
+      "assetMtime": 1743260442274,
+      "metaMtime": 1743260533748
+    },
+    "07be7054-f08f-42bb-8a43-98ed6c5ed277": {
+      "assetMtime": 1743260442274,
+      "metaMtime": 1743260533748
+    },
+    "78c4b828-52a3-4381-a7dd-474d33ed86ca": {
+      "assetMtime": 1743260442296,
+      "metaMtime": 1743260533940
+    },
+    "b5178891-6d79-4261-975b-eebf387a5afc": {
+      "assetMtime": 1743260442296,
+      "metaMtime": 1743260533940
+    },
+    "792dc817-6cad-4355-b04f-2418f79df1e9": {
+      "assetMtime": 1743260442297,
+      "metaMtime": 1743260533947
+    },
+    "03683494-47c3-4317-96a8-ec8e6ba220ff": {
+      "assetMtime": 1743260442297,
+      "metaMtime": 1743260533947
+    },
+    "7e43013d-2577-49de-8352-a3c0adfbd776": {
+      "assetMtime": 1743260442288,
+      "metaMtime": 1743260533858
+    },
+    "b0167987-17e8-400d-8d54-a1f52597ba71": {
+      "assetMtime": 1743260442288,
+      "metaMtime": 1743260533858
+    },
+    "80ff06e6-e5f6-4c62-89b0-b778e73d2ca5": {
+      "assetMtime": 1743260442287,
+      "metaMtime": 1743260533844
+    },
+    "03f8b993-64a5-4867-b970-d86b87a0daa6": {
+      "assetMtime": 1743260442287,
+      "metaMtime": 1743260533844
+    },
+    "835c14f5-ad92-4111-a120-bb65abe1bf14": {
+      "assetMtime": 1743260442298,
+      "metaMtime": 1743260533964
+    },
+    "ed6c3b23-2f94-4c08-ab00-96174db32407": {
+      "assetMtime": 1743260442298,
+      "metaMtime": 1743260533964
+    },
+    "8700d40a-7126-4e3d-9268-18c48323ab82": {
+      "assetMtime": 1743260442267,
+      "metaMtime": 1743260533752
+    },
+    "5ddd28c3-33fc-41f5-8bc6-382f630b6f5a": {
+      "assetMtime": 1743260442267,
+      "metaMtime": 1743260533752
+    },
+    "8c8e0464-3165-429c-93bd-5c67e27e5999": {
+      "assetMtime": 1743260442277,
+      "metaMtime": 1743260533776
+    },
+    "1559182f-5408-4adc-aa50-5faeeceae16c": {
+      "assetMtime": 1743260442277,
+      "metaMtime": 1743260533776
+    },
+    "8dfb1fea-8f17-4310-99dd-9cf2015803c0": {
+      "assetMtime": 1743260442291,
+      "metaMtime": 1743260533888
+    },
+    "01448df4-c512-4e7a-ae6d-6572addb9e50": {
+      "assetMtime": 1743260442291,
+      "metaMtime": 1743260533888
+    },
+    "8e36842f-d87a-4373-b09b-769a4380abbd": {
+      "assetMtime": 1743260442277,
+      "metaMtime": 1743260532952
+    },
+    "c8f9fe2b-991a-424d-ab6d-49352458cd88": {
+      "assetMtime": 1743260442277,
+      "metaMtime": 1743260532952
+    },
+    "938284e7-35e1-407f-b657-2bb6e386f100": {
+      "assetMtime": 1743260442280,
+      "metaMtime": 1743260533789
+    },
+    "14162b8f-b110-4123-8385-e7ef96aed10b": {
+      "assetMtime": 1743260442280,
+      "metaMtime": 1743260533789
+    },
+    "9552a7ed-d1a3-4b2c-ac23-6dc416802bca": {
+      "assetMtime": 1743260442288,
+      "metaMtime": 1743260533860
+    },
+    "1d23c5c2-dc8b-445b-a6e5-5aaf00f941e5": {
+      "assetMtime": 1743260442288,
+      "metaMtime": 1743260533860
+    },
+    "9625ee5a-0c02-4bdb-8ed4-77fe0241e0f6": {
+      "assetMtime": 1743260442284,
+      "metaMtime": 1743260533836
+    },
+    "1a49724b-bf83-427e-b791-4d77f1a1260e": {
+      "assetMtime": 1743260442284,
+      "metaMtime": 1743260533836
+    },
+    "9ad8938e-6020-4492-b036-3dea954c330f": {
+      "assetMtime": 1743260442292,
+      "metaMtime": 1743260533910
+    },
+    "16111d54-f1fe-4c94-8f13-8c9a9fc7b208": {
+      "assetMtime": 1743260442292,
+      "metaMtime": 1743260533910
+    },
+    "9fe1b66d-6592-437f-b700-f66ec5d167d9": {
+      "assetMtime": 1743260442298,
+      "metaMtime": 1743260533956
+    },
+    "06d4271b-7cd0-475e-b9f2-9937bf6f7990": {
+      "assetMtime": 1743260442298,
+      "metaMtime": 1743260533956
+    },
+    "a2b19bc8-6749-4ec9-9d9c-c4fbf14e52c7": {
+      "assetMtime": 1743260442280,
+      "metaMtime": 1743260533800
+    },
+    "bd653cd1-7447-43b8-95ab-555c148ce7d7": {
+      "assetMtime": 1743260442280,
+      "metaMtime": 1743260533800
+    },
+    "a5c7bb0c-57eb-4c9b-ac52-f584b623a6fc": {
+      "assetMtime": 1743260442292,
+      "metaMtime": 1743260533892
+    },
+    "51af10d2-dd04-4ac9-a0da-f83fbf211468": {
+      "assetMtime": 1743260442292,
+      "metaMtime": 1743260533892
+    },
+    "aa6ce2f0-3d7d-44d6-b48d-6f30c6733eea": {
+      "assetMtime": 1743260442274,
+      "metaMtime": 1743260533756
+    },
+    "9fe96ad5-54e9-486a-82b5-8bf93e140198": {
+      "assetMtime": 1743260442274,
+      "metaMtime": 1743260533756
+    },
+    "aeda6417-405c-4d77-a39c-b3d27676b1fc": {
+      "assetMtime": 1743260442289,
+      "metaMtime": 1743260533872
+    },
+    "c3bc1c2e-807c-4c6d-aa35-f365db1e7611": {
+      "assetMtime": 1743260442289,
+      "metaMtime": 1743260533872
+    },
+    "af20cddf-87bb-432c-8043-b3c9f0dd6df4": {
+      "assetMtime": 1743260442302,
+      "metaMtime": 1743260532954
+    },
+    "0fd989f4-40b6-498c-b51d-4db0c7ce1574": {
+      "assetMtime": 1743260442302,
+      "metaMtime": 1743260532954
+    },
+    "af7c245a-3b27-4bba-86d9-e2fba427564b": {
+      "assetMtime": 1743260442297,
+      "metaMtime": 1743260533940
+    },
+    "e3b2071d-fe09-4bb1-be20-e040ef15f265": {
+      "assetMtime": 1743260442297,
+      "metaMtime": 1743260533940
+    },
+    "b02fe061-7803-416b-8a90-a37ed870ce4c": {
+      "assetMtime": 1743260442293,
+      "metaMtime": 1743260533916
+    },
+    "9be6969d-f8af-4bdd-bc00-c5ea7ace6539": {
+      "assetMtime": 1743260442293,
+      "metaMtime": 1743260533916
+    },
+    "bb5de5bc-6ac4-4307-8881-e06209c410d2": {
+      "assetMtime": 1743260442276,
+      "metaMtime": 1743260533758
+    },
+    "de8dbced-0c40-475b-90af-2a5881d3612b": {
+      "assetMtime": 1743260442276,
+      "metaMtime": 1743260533758
+    },
+    "bbd72c51-959a-48b7-b5cf-431e8bb0b605": {
+      "assetMtime": 1743260442270,
+      "metaMtime": 1743260533990
+    },
+    "fa5490c0-ef43-46e4-b47e-2fff5270292b": {
+      "assetMtime": 1743260442270,
+      "metaMtime": 1743260533990
+    },
+    "c1671c82-613c-4082-9951-eab82b3e9323": {
+      "assetMtime": 1743260442276,
+      "metaMtime": 1743260533776
+    },
+    "42d8c62a-208a-41a3-be4b-300fe9beebde": {
+      "assetMtime": 1743260442276,
+      "metaMtime": 1743260533776
+    },
+    "c97cb070-7f95-4a35-bb39-83bd7e1ee771": {
+      "assetMtime": 1743260442283,
+      "metaMtime": 1743260533802
+    },
+    "9cac9714-baee-4aac-a822-72c99aa27d15": {
+      "assetMtime": 1743260442283,
+      "metaMtime": 1743260533802
+    },
+    "d571a4f5-1454-4d52-8ac3-d9949de8fa63": {
+      "assetMtime": 1743260442286,
+      "metaMtime": 1743260533832
+    },
+    "6a11dd7c-2eae-4cd0-bc6f-e1a128f3c1f6": {
+      "assetMtime": 1743260442286,
+      "metaMtime": 1743260533832
+    },
+    "d64a138a-be6a-44b1-b3f5-24caff8a0c61": {
+      "assetMtime": 1743260442293,
+      "metaMtime": 1743260533906
+    },
+    "99b219af-3a41-405c-a477-f2322f6bd25e": {
+      "assetMtime": 1743260442293,
+      "metaMtime": 1743260533906
+    },
+    "d8865669-8575-47d7-ac9b-e9db11bf6d00": {
+      "assetMtime": 1743260442298,
+      "metaMtime": 1743260533952
+    },
+    "085d7ce8-5790-4c0d-8743-387c52e5ec67": {
+      "assetMtime": 1743260442298,
+      "metaMtime": 1743260533952
+    },
+    "da66421a-7d1b-48b7-af61-617032c8d6ed": {
+      "assetMtime": 1743260442301,
+      "metaMtime": 1743260533975
+    },
+    "035c6db0-d878-4c0d-b448-78c954efba83": {
+      "assetMtime": 1743260442301,
+      "metaMtime": 1743260533975
+    },
+    "de7082ef-6bee-474a-acc8-d55267a6d538": {
+      "assetMtime": 1743260442289,
+      "metaMtime": 1743260533866
+    },
+    "929df9db-d514-423c-80fa-f88637e5ed22": {
+      "assetMtime": 1743260442289,
+      "metaMtime": 1743260533866
+    },
+    "de8dc6c9-dddd-4847-b93e-650da128b6db": {
+      "assetMtime": 1743260442285,
+      "metaMtime": 1743260533846
+    },
+    "cb24f05c-0d45-43a0-97a8-c60f26e8a5f5": {
+      "assetMtime": 1743260442285,
+      "metaMtime": 1743260533846
+    },
+    "e0f04d4e-1ef8-4402-a56b-a76cc38e3e11": {
+      "assetMtime": 1743260442288,
+      "metaMtime": 1743260533872
+    },
+    "650556f9-1e88-4584-9e98-1531153b0b08": {
+      "assetMtime": 1743260442288,
+      "metaMtime": 1743260533872
+    },
+    "e26e3e36-25d3-4961-abf6-42d94f79c62d": {
+      "assetMtime": 1743260442287,
+      "metaMtime": 1743260533852
+    },
+    "39880337-8ede-4025-becc-a6764a00e543": {
+      "assetMtime": 1743260442287,
+      "metaMtime": 1743260533852
+    }
+  },
+  "result": {
+    "name": "textures-4",
+    "width": 262,
+    "height": 524,
+    "ver": "1.2.5",
+    "uuid": "a0b2248f-8fdf-4295-889a-38f2012cf28d",
+    "importer": "auto-atlas",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "compressionLevel": 6,
+    "allowRotation": false,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": false,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "FlameArc8_small",
+            "uuid": "8700d40a-7126-4e3d-9268-18c48323ab82",
+            "textureUuid": "5ddd28c3-33fc-41f5-8bc6-382f630b6f5a",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550297_image_33.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 512,
+              "height": 512,
+              "rotatedWidth": 512,
+              "rotatedHeight": 512
+            },
+            "rawWidth": 512,
+            "rawHeight": 512,
+            "width": 518,
+            "height": 518,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/5d/5ddd28c3-33fc-41f5-8bc6-382f630b6f5a.jpg",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 518,
+            "rotatedHeight": 518
+          },
+          {
+            "name": "blue_flare",
+            "uuid": "938284e7-35e1-407f-b657-2bb6e386f100",
+            "textureUuid": "14162b8f-b110-4123-8385-e7ef96aed10b",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550297_image_37.png",
+            "trim": {
+              "x": 521,
+              "y": 3,
+              "width": 265,
+              "height": 253,
+              "rotatedWidth": 265,
+              "rotatedHeight": 253
+            },
+            "rawWidth": 265,
+            "rawHeight": 253,
+            "width": 271,
+            "height": 259,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/14/14162b8f-b110-4123-8385-e7ef96aed10b.jpg",
+            "x": 518,
+            "y": 0,
+            "rotatedWidth": 271,
+            "rotatedHeight": 259
+          },
+          {
+            "name": "explosions2",
+            "uuid": "71dc9727-2e1d-4afa-825b-5baeb9cfbd22",
+            "textureUuid": "035cda90-802f-487d-9eb3-180ed2357adc",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550296_image_25.png",
+            "trim": {
+              "x": 792,
+              "y": 3,
+              "width": 211,
+              "height": 211,
+              "rotatedWidth": 211,
+              "rotatedHeight": 211
+            },
+            "rawWidth": 211,
+            "rawHeight": 211,
+            "width": 217,
+            "height": 217,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/03/035cda90-802f-487d-9eb3-180ed2357adc.jpg",
+            "x": 789,
+            "y": 0,
+            "rotatedWidth": 217,
+            "rotatedHeight": 217
+          },
+          {
+            "name": "sparks5x3_long",
+            "uuid": "8c8e0464-3165-429c-93bd-5c67e27e5999",
+            "textureUuid": "1559182f-5408-4adc-aa50-5faeeceae16c",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550297_image_34.png",
+            "trim": {
+              "x": 792,
+              "y": 220,
+              "width": 160,
+              "height": 96,
+              "rotatedWidth": 160,
+              "rotatedHeight": 96
+            },
+            "rawWidth": 160,
+            "rawHeight": 96,
+            "width": 166,
+            "height": 102,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/15/1559182f-5408-4adc-aa50-5faeeceae16c.png",
+            "x": 789,
+            "y": 217,
+            "rotatedWidth": 166,
+            "rotatedHeight": 102
+          },
+          {
+            "name": "aura",
+            "uuid": "20af2a73-7290-4379-8250-47f4df2b980d",
+            "textureUuid": "c85daa1e-c673-4c77-b80a-d674b8d80533",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550292_image_1.png",
+            "trim": {
+              "x": 521,
+              "y": 262,
+              "width": 256,
+              "height": 256,
+              "rotatedWidth": 256,
+              "rotatedHeight": 256
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 262,
+            "height": 262,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/c8/c85daa1e-c673-4c77-b80a-d674b8d80533.png",
+            "x": 518,
+            "y": 259,
+            "rotatedWidth": 262,
+            "rotatedHeight": 262
+          },
+          {
+            "name": "sparks_core",
+            "uuid": "af20cddf-87bb-432c-8043-b3c9f0dd6df4",
+            "textureUuid": "0fd989f4-40b6-498c-b51d-4db0c7ce1574",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550299_image_46.png",
+            "trim": {
+              "x": 958,
+              "y": 220,
+              "width": 32,
+              "height": 32,
+              "rotatedWidth": 32,
+              "rotatedHeight": 32
+            },
+            "rawWidth": 32,
+            "rawHeight": 32,
+            "width": 38,
+            "height": 38,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/0f/0fd989f4-40b6-498c-b51d-4db0c7ce1574.png",
+            "x": 955,
+            "y": 217,
+            "rotatedWidth": 38,
+            "rotatedHeight": 38
+          },
+          {
+            "name": "bubble",
+            "uuid": "46b0fb92-5db1-457a-a591-11bab41f5aeb",
+            "textureUuid": "97f75cde-6580-4a27-a15e-3fa0f0b6f2ab",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550293_image_9.png",
+            "trim": {
+              "x": 996,
+              "y": 220,
+              "width": 24,
+              "height": 24,
+              "rotatedWidth": 24,
+              "rotatedHeight": 24
+            },
+            "rawWidth": 24,
+            "rawHeight": 24,
+            "width": 30,
+            "height": 30,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/97/97f75cde-6580-4a27-a15e-3fa0f0b6f2ab.png",
+            "x": 993,
+            "y": 217,
+            "rotatedWidth": 30,
+            "rotatedHeight": 30
+          },
+          {
+            "name": "sparks5x2_long_violet",
+            "uuid": "c1671c82-613c-4082-9951-eab82b3e9323",
+            "textureUuid": "42d8c62a-208a-41a3-be4b-300fe9beebde",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550300_image_51.png",
+            "trim": {
+              "x": 783,
+              "y": 322,
+              "width": 160,
+              "height": 64,
+              "rotatedWidth": 160,
+              "rotatedHeight": 64
+            },
+            "rawWidth": 160,
+            "rawHeight": 64,
+            "width": 166,
+            "height": 70,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/42/42d8c62a-208a-41a3-be4b-300fe9beebde.png",
+            "x": 780,
+            "y": 319,
+            "rotatedWidth": 166,
+            "rotatedHeight": 70
+          },
+          {
+            "name": "flaredouble",
+            "uuid": "42e0881d-15e4-4c9e-a206-f0d3535ac21c",
+            "textureUuid": "f5618038-f996-4f47-92d4-131dd61ca418",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550293_image_8.png",
+            "trim": {
+              "x": 949,
+              "y": 322,
+              "width": 64,
+              "height": 128,
+              "rotatedWidth": 64,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 64,
+            "rawHeight": 128,
+            "width": 70,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/f5/f5618038-f996-4f47-92d4-131dd61ca418.png",
+            "x": 946,
+            "y": 319,
+            "rotatedWidth": 70,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "explosions1",
+            "uuid": "6a102a95-8da3-4ecc-a543-29b8e9e5c2d4",
+            "textureUuid": "3d3987eb-47c6-43b1-9d63-92bf24a0458f",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550295_image_21.png",
+            "trim": {
+              "x": 783,
+              "y": 392,
+              "width": 153,
+              "height": 160,
+              "rotatedWidth": 153,
+              "rotatedHeight": 160
+            },
+            "rawWidth": 153,
+            "rawHeight": 160,
+            "width": 159,
+            "height": 166,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/3d/3d3987eb-47c6-43b1-9d63-92bf24a0458f.jpg",
+            "x": 780,
+            "y": 389,
+            "rotatedWidth": 159,
+            "rotatedHeight": 166
+          },
+          {
+            "name": "sparks2x3_violet",
+            "uuid": "bb5de5bc-6ac4-4307-8881-e06209c410d2",
+            "textureUuid": "de8dbced-0c40-475b-90af-2a5881d3612b",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550299_image_49.png",
+            "trim": {
+              "x": 942,
+              "y": 456,
+              "width": 64,
+              "height": 96,
+              "rotatedWidth": 64,
+              "rotatedHeight": 96
+            },
+            "rawWidth": 64,
+            "rawHeight": 96,
+            "width": 70,
+            "height": 102,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/de/de8dbced-0c40-475b-90af-2a5881d3612b.png",
+            "x": 939,
+            "y": 453,
+            "rotatedWidth": 70,
+            "rotatedHeight": 102
+          },
+          {
+            "name": "extendring_1",
+            "uuid": "3e4993d9-33e7-4db4-a15a-fd22b4a04e30",
+            "textureUuid": "647a6391-dc62-4681-9f8f-a50d12ba8c9a",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550293_image_6.png",
+            "trim": {
+              "x": 3,
+              "y": 558,
+              "width": 256,
+              "height": 256,
+              "rotatedWidth": 256,
+              "rotatedHeight": 256
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 262,
+            "height": 262,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/64/647a6391-dc62-4681-9f8f-a50d12ba8c9a.png",
+            "x": 0,
+            "y": 555,
+            "rotatedWidth": 262,
+            "rotatedHeight": 262
+          },
+          {
+            "name": "weapon_flash",
+            "uuid": "af7c245a-3b27-4bba-86d9-e2fba427564b",
+            "textureUuid": "e3b2071d-fe09-4bb1-be20-e040ef15f265",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550299_image_47.png",
+            "trim": {
+              "x": 3,
+              "y": 820,
+              "width": 256,
+              "height": 128,
+              "rotatedWidth": 256,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 256,
+            "rawHeight": 128,
+            "width": 262,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/e3/e3b2071d-fe09-4bb1-be20-e040ef15f265.jpg",
+            "x": 0,
+            "y": 817,
+            "rotatedWidth": 262,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "bird_atlas",
+            "uuid": "3dd7e2ea-f03c-4846-9c76-10402956e231",
+            "textureUuid": "5ac9b038-99b9-4d0c-843c-b8bed0996bf4",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550293_image_5.png",
+            "trim": {
+              "x": 3,
+              "y": 954,
+              "width": 256,
+              "height": 64,
+              "rotatedWidth": 256,
+              "rotatedHeight": 64
+            },
+            "rawWidth": 256,
+            "rawHeight": 64,
+            "width": 262,
+            "height": 70,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/5a/5ac9b038-99b9-4d0c-843c-b8bed0996bf4.png",
+            "x": 0,
+            "y": 951,
+            "rotatedWidth": 262,
+            "rotatedHeight": 70
+          },
+          {
+            "name": "Flare2",
+            "uuid": "10e97b3d-9782-4db3-b446-d47a0bc02194",
+            "textureUuid": "66cd6bef-7e35-4547-9fc2-da92e36ed031",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550292_image_0.png",
+            "trim": {
+              "x": 265,
+              "y": 521,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/66/66cd6bef-7e35-4547-9fc2-da92e36ed031.png",
+            "x": 262,
+            "y": 518,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "flake",
+            "uuid": "76d3c262-db60-44a4-92f6-7ef3da463b4f",
+            "textureUuid": "07be7054-f08f-42bb-8a43-98ed6c5ed277",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550296_image_27.png",
+            "trim": {
+              "x": 399,
+              "y": 521,
+              "width": 64,
+              "height": 64,
+              "rotatedWidth": 64,
+              "rotatedHeight": 64
+            },
+            "rawWidth": 64,
+            "rawHeight": 64,
+            "width": 70,
+            "height": 70,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/07/07be7054-f08f-42bb-8a43-98ed6c5ed277.png",
+            "x": 396,
+            "y": 518,
+            "rotatedWidth": 70,
+            "rotatedHeight": 70
+          },
+          {
+            "name": "darkball",
+            "uuid": "492aefc2-e950-4861-b5ca-e6fc0ce16d5c",
+            "textureUuid": "239b6300-1bb4-49e2-955c-da94b9d5f84e",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550293_image_10.png",
+            "trim": {
+              "x": 469,
+              "y": 524,
+              "width": 256,
+              "height": 256,
+              "rotatedWidth": 256,
+              "rotatedHeight": 256
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 262,
+            "height": 262,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/23/239b6300-1bb4-49e2-955c-da94b9d5f84e.png",
+            "x": 466,
+            "y": 521,
+            "rotatedWidth": 262,
+            "rotatedHeight": 262
+          },
+          {
+            "name": "meteor_fire",
+            "uuid": "8e36842f-d87a-4373-b09b-769a4380abbd",
+            "textureUuid": "c8f9fe2b-991a-424d-ab6d-49352458cd88",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550297_image_36.png",
+            "trim": {
+              "x": 399,
+              "y": 591,
+              "width": 64,
+              "height": 64,
+              "rotatedWidth": 64,
+              "rotatedHeight": 64
+            },
+            "rawWidth": 64,
+            "rawHeight": 64,
+            "width": 70,
+            "height": 70,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/c8/c8f9fe2b-991a-424d-ab6d-49352458cd88.png",
+            "x": 396,
+            "y": 588,
+            "rotatedWidth": 70,
+            "rotatedHeight": 70
+          },
+          {
+            "name": "quadragon",
+            "uuid": "22671f9c-df4b-440d-9c86-082f95568363",
+            "textureUuid": "0b55155d-19fe-4f8b-8007-3824570013b3",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550292_image_2.png",
+            "trim": {
+              "x": 265,
+              "y": 655,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/0b/0b55155d-19fe-4f8b-8007-3824570013b3.png",
+            "x": 262,
+            "y": 652,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "highlights",
+            "uuid": "aa6ce2f0-3d7d-44d6-b48d-6f30c6733eea",
+            "textureUuid": "9fe96ad5-54e9-486a-82b5-8bf93e140198",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550298_image_44.png",
+            "trim": {
+              "x": 399,
+              "y": 661,
+              "width": 64,
+              "height": 64,
+              "rotatedWidth": 64,
+              "rotatedHeight": 64
+            },
+            "rawWidth": 64,
+            "rawHeight": 64,
+            "width": 70,
+            "height": 70,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/9f/9fe96ad5-54e9-486a-82b5-8bf93e140198.png",
+            "x": 396,
+            "y": 658,
+            "rotatedWidth": 70,
+            "rotatedHeight": 70
+          },
+          {
+            "name": "tunel_0",
+            "uuid": "4ed1dc59-b8ce-4304-a6d0-f552a3a243cf",
+            "textureUuid": "64fa98b4-2b4e-426d-b9d8-a913521eb2ba",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550294_image_14.png",
+            "trim": {
+              "x": 731,
+              "y": 558,
+              "width": 256,
+              "height": 256,
+              "rotatedWidth": 256,
+              "rotatedHeight": 256
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 262,
+            "height": 262,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/64/64fa98b4-2b4e-426d-b9d8-a913521eb2ba.png",
+            "x": 728,
+            "y": 555,
+            "rotatedWidth": 262,
+            "rotatedHeight": 262
+          },
+          {
+            "name": "fire5x1",
+            "uuid": "4cc1c4e9-6e46-47ff-a2eb-7f8a9db96676",
+            "textureUuid": "03949ccd-d085-4b35-8690-945621f29525",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550294_image_12.png",
+            "trim": {
+              "x": 399,
+              "y": 786,
+              "width": 256,
+              "height": 64,
+              "rotatedWidth": 256,
+              "rotatedHeight": 64
+            },
+            "rawWidth": 256,
+            "rawHeight": 64,
+            "width": 262,
+            "height": 70,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/03/03949ccd-d085-4b35-8690-945621f29525.png",
+            "x": 396,
+            "y": 783,
+            "rotatedWidth": 262,
+            "rotatedHeight": 70
+          },
+          {
+            "name": "trigon_0",
+            "uuid": "4152fc10-0d12-4f85-98e9-e218adea734d",
+            "textureUuid": "26b2a039-d1a4-4328-b7ff-9c6be6d05181",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550293_image_7.png",
+            "trim": {
+              "x": 265,
+              "y": 789,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/26/26b2a039-d1a4-4328-b7ff-9c6be6d05181.png",
+            "x": 262,
+            "y": 786,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "x3",
+            "uuid": "4ad0caf8-e5d4-49c4-9879-2eb7cc88b16a",
+            "textureUuid": "4b089ec5-f8a1-4ead-aa4d-98f63407ed70",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550294_image_11.png",
+            "trim": {
+              "x": 399,
+              "y": 856,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/4b/4b089ec5-f8a1-4ead-aa4d-98f63407ed70.png",
+            "x": 396,
+            "y": 853,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "stars4x1_white",
+            "uuid": "2dfd22d8-0b52-4f29-96b6-729b87b758f2",
+            "textureUuid": "6d1f7cd1-d801-43cb-8b12-a6f19e9274bb",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550292_image_3.png",
+            "trim": {
+              "x": 265,
+              "y": 923,
+              "width": 128,
+              "height": 32,
+              "rotatedWidth": 128,
+              "rotatedHeight": 32
+            },
+            "rawWidth": 128,
+            "rawHeight": 32,
+            "width": 134,
+            "height": 38,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/6d/6d1f7cd1-d801-43cb-8b12-a6f19e9274bb.png",
+            "x": 262,
+            "y": 920,
+            "rotatedWidth": 134,
+            "rotatedHeight": 38
+          },
+          {
+            "name": "sparks4x1",
+            "uuid": "3b26ce77-bc39-48e3-a780-64b60e0bd89e",
+            "textureUuid": "71adf51d-6b95-4207-8de7-9f06579af3de",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550292_image_4.png",
+            "trim": {
+              "x": 265,
+              "y": 961,
+              "width": 128,
+              "height": 32,
+              "rotatedWidth": 128,
+              "rotatedHeight": 32
+            },
+            "rawWidth": 128,
+            "rawHeight": 32,
+            "width": 134,
+            "height": 38,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/71/71adf51d-6b95-4207-8de7-9f06579af3de.png",
+            "x": 262,
+            "y": 958,
+            "rotatedWidth": 134,
+            "rotatedHeight": 38
+          },
+          {
+            "name": "x4_0",
+            "uuid": "4d4ceeb4-b5fe-475b-a886-b3aa09bc38e9",
+            "textureUuid": "7fbabba4-4a8c-4564-bfc7-d9a00419b9d3",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550294_image_13.png",
+            "trim": {
+              "x": 533,
+              "y": 856,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/7f/7fbabba4-4a8c-4564-bfc7-d9a00419b9d3.png",
+            "x": 530,
+            "y": 853,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "quadragon_1",
+            "uuid": "4f6757e3-0574-4e02-a149-98a5fa996b35",
+            "textureUuid": "386f4aec-52bd-4485-b9f3-8570f921aff1",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550294_image_15.png",
+            "trim": {
+              "x": 667,
+              "y": 820,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/38/386f4aec-52bd-4485-b9f3-8570f921aff1.png",
+            "x": 664,
+            "y": 817,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "fireball-side",
+            "uuid": "60347c6c-fb02-4455-a811-eacf6481b802",
+            "textureUuid": "4b9d3003-5be7-4d34-b692-75b71701ed9a",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550295_image_19.png",
+            "trim": {
+              "x": 667,
+              "y": 954,
+              "width": 256,
+              "height": 56,
+              "rotatedWidth": 256,
+              "rotatedHeight": 56
+            },
+            "rawWidth": 256,
+            "rawHeight": 56,
+            "width": 262,
+            "height": 62,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/4b/4b9d3003-5be7-4d34-b692-75b71701ed9a.jpg",
+            "x": 664,
+            "y": 951,
+            "rotatedWidth": 262,
+            "rotatedHeight": 62
+          },
+          {
+            "name": "triangle_0",
+            "uuid": "54c4dbca-afdf-425b-9245-d6ff74a0ee0b",
+            "textureUuid": "94cabffd-62a4-4dab-8a77-54116ff4f9b9",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550294_image_16.png",
+            "trim": {
+              "x": 801,
+              "y": 820,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/94/94cabffd-62a4-4dab-8a77-54116ff4f9b9.png",
+            "x": 798,
+            "y": 817,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          }
+        ],
+        "width": 1023,
+        "height": 1021,
+        "name": "textures-1",
+        "imagePath": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\TexturePacker\\build\\native\\assets\\neutrinoparticles\\textures\\textures.pac\\textures-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\TexturePacker\\build\\native\\assets\\neutrinoparticles\\textures\\textures.pac\\compressed\\textures-1"
+        }
+      },
+      {
+        "files": [
+          {
+            "name": "CloudPart",
+            "uuid": "bbd72c51-959a-48b7-b5cf-431e8bb0b605",
+            "textureUuid": "fa5490c0-ef43-46e4-b47e-2fff5270292b",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550299_image_50.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 512,
+              "height": 512,
+              "rotatedWidth": 512,
+              "rotatedHeight": 512
+            },
+            "rawWidth": 512,
+            "rawHeight": 512,
+            "width": 518,
+            "height": 518,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/fa/fa5490c0-ef43-46e4-b47e-2fff5270292b.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 518,
+            "rotatedHeight": 518
+          },
+          {
+            "name": "extend_1",
+            "uuid": "6f4f02da-618b-40af-9abc-21ababdb6648",
+            "textureUuid": "7f135fe8-8f80-4b78-8ab1-fcdb46d82e64",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550295_image_22.png",
+            "trim": {
+              "x": 3,
+              "y": 521,
+              "width": 256,
+              "height": 256,
+              "rotatedWidth": 256,
+              "rotatedHeight": 256
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 262,
+            "height": 262,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/7f/7f135fe8-8f80-4b78-8ab1-fcdb46d82e64.png",
+            "x": 0,
+            "y": 518,
+            "rotatedWidth": 262,
+            "rotatedHeight": 262
+          },
+          {
+            "name": "blastwave1",
+            "uuid": "5b96ddb5-144b-48cb-85e8-2afa0f2c54b6",
+            "textureUuid": "8e5298b0-1eb8-4d7b-bff1-f388ebadebe6",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550295_image_17.png",
+            "trim": {
+              "x": 3,
+              "y": 783,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/8e/8e5298b0-1eb8-4d7b-bff1-f388ebadebe6.png",
+            "x": 0,
+            "y": 780,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "quadangle",
+            "uuid": "5f95a789-71fb-4cd0-9553-d02d90b6f554",
+            "textureUuid": "ba039c49-31f6-4d12-890e-d2ed54e32230",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550295_image_18.png",
+            "trim": {
+              "x": 137,
+              "y": 783,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/ba/ba039c49-31f6-4d12-890e-d2ed54e32230.png",
+            "x": 134,
+            "y": 780,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "powerup_flare3",
+            "uuid": "6f8a3314-a096-4258-814e-548c2113835c",
+            "textureUuid": "42ea5b51-afac-4a77-80c9-1e7a5b1218d8",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550296_image_23.png",
+            "trim": {
+              "x": 265,
+              "y": 521,
+              "width": 256,
+              "height": 256,
+              "rotatedWidth": 256,
+              "rotatedHeight": 256
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 262,
+            "height": 262,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/42/42ea5b51-afac-4a77-80c9-1e7a5b1218d8.jpg",
+            "x": 262,
+            "y": 518,
+            "rotatedWidth": 262,
+            "rotatedHeight": 262
+          },
+          {
+            "name": "Flare10",
+            "uuid": "639dce69-3fec-4f31-a29d-0daf9cd8e5c0",
+            "textureUuid": "c66ccfc5-0909-4957-92f9-2775ba842d80",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550295_image_20.png",
+            "trim": {
+              "x": 271,
+              "y": 783,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/c6/c66ccfc5-0909-4957-92f9-2775ba842d80.png",
+            "x": 268,
+            "y": 780,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "hexagon_0",
+            "uuid": "6f950ff8-5705-4224-a5cb-137bd3bd0a66",
+            "textureUuid": "d4d36426-a43b-45b4-8025-d67c9de24b1a",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550296_image_24.png",
+            "trim": {
+              "x": 405,
+              "y": 783,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/d4/d4d36426-a43b-45b4-8025-d67c9de24b1a.png",
+            "x": 402,
+            "y": 780,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "tunelring_0",
+            "uuid": "764710a3-00d2-4abf-aad7-75d9d04e6f63",
+            "textureUuid": "f54a06bf-933c-4772-88df-4fc34a6ba04b",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550296_image_26.png",
+            "trim": {
+              "x": 521,
+              "y": 3,
+              "width": 256,
+              "height": 256,
+              "rotatedWidth": 256,
+              "rotatedHeight": 256
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 262,
+            "height": 262,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/f5/f54a06bf-933c-4772-88df-4fc34a6ba04b.png",
+            "x": 518,
+            "y": 0,
+            "rotatedWidth": 262,
+            "rotatedHeight": 262
+          },
+          {
+            "name": "nova_0",
+            "uuid": "7e43013d-2577-49de-8352-a3c0adfbd776",
+            "textureUuid": "b0167987-17e8-400d-8d54-a1f52597ba71",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550297_image_30.png",
+            "trim": {
+              "x": 521,
+              "y": 265,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/b0/b0167987-17e8-400d-8d54-a1f52597ba71.png",
+            "x": 518,
+            "y": 262,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "wave_0",
+            "uuid": "78c4b828-52a3-4381-a7dd-474d33ed86ca",
+            "textureUuid": "b5178891-6d79-4261-975b-eebf387a5afc",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550296_image_28.png",
+            "trim": {
+              "x": 527,
+              "y": 399,
+              "width": 256,
+              "height": 256,
+              "rotatedWidth": 256,
+              "rotatedHeight": 256
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 262,
+            "height": 262,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/b5/b5178891-6d79-4261-975b-eebf387a5afc.png",
+            "x": 524,
+            "y": 396,
+            "rotatedWidth": 262,
+            "rotatedHeight": 262
+          },
+          {
+            "name": "hexangle_0",
+            "uuid": "80ff06e6-e5f6-4c62-89b0-b778e73d2ca5",
+            "textureUuid": "03f8b993-64a5-4867-b970-d86b87a0daa6",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550297_image_31.png",
+            "trim": {
+              "x": 655,
+              "y": 265,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/03/03f8b993-64a5-4867-b970-d86b87a0daa6.png",
+            "x": 652,
+            "y": 262,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "x2",
+            "uuid": "835c14f5-ad92-4111-a120-bb65abe1bf14",
+            "textureUuid": "ed6c3b23-2f94-4c08-ab00-96174db32407",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550297_image_32.png",
+            "trim": {
+              "x": 783,
+              "y": 3,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/ed/ed6c3b23-2f94-4c08-ab00-96174db32407.png",
+            "x": 780,
+            "y": 0,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "wave_1",
+            "uuid": "792dc817-6cad-4355-b04f-2418f79df1e9",
+            "textureUuid": "03683494-47c3-4317-96a8-ec8e6ba220ff",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550296_image_29.png",
+            "trim": {
+              "x": 539,
+              "y": 661,
+              "width": 256,
+              "height": 256,
+              "rotatedWidth": 256,
+              "rotatedHeight": 256
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 262,
+            "height": 262,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/03/03683494-47c3-4317-96a8-ec8e6ba220ff.png",
+            "x": 536,
+            "y": 658,
+            "rotatedWidth": 262,
+            "rotatedHeight": 262
+          },
+          {
+            "name": "flare_01_0",
+            "uuid": "9625ee5a-0c02-4bdb-8ed4-77fe0241e0f6",
+            "textureUuid": "1a49724b-bf83-427e-b791-4d77f1a1260e",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550298_image_39.png",
+            "trim": {
+              "x": 789,
+              "y": 137,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/1a/1a49724b-bf83-427e-b791-4d77f1a1260e.png",
+            "x": 786,
+            "y": 134,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "x1",
+            "uuid": "9fe1b66d-6592-437f-b700-f66ec5d167d9",
+            "textureUuid": "06d4271b-7cd0-475e-b9f2-9937bf6f7990",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550298_image_41.png",
+            "trim": {
+              "x": 789,
+              "y": 271,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/06/06d4271b-7cd0-475e-b9f2-9937bf6f7990.png",
+            "x": 786,
+            "y": 268,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "sparkle_1",
+            "uuid": "a5c7bb0c-57eb-4c9b-ac52-f584b623a6fc",
+            "textureUuid": "51af10d2-dd04-4ac9-a0da-f83fbf211468",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550298_image_43.png",
+            "trim": {
+              "x": 789,
+              "y": 405,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/51/51af10d2-dd04-4ac9-a0da-f83fbf211468.png",
+            "x": 786,
+            "y": 402,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "flarefour",
+            "uuid": "d571a4f5-1454-4d52-8ac3-d9949de8fa63",
+            "textureUuid": "6a11dd7c-2eae-4cd0-bc6f-e1a128f3c1f6",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550300_image_53.png",
+            "trim": {
+              "x": 801,
+              "y": 539,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/6a/6a11dd7c-2eae-4cd0-bc6f-e1a128f3c1f6.png",
+            "x": 798,
+            "y": 536,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "x0",
+            "uuid": "d8865669-8575-47d7-ac9b-e9db11bf6d00",
+            "textureUuid": "085d7ce8-5790-4c0d-8743-387c52e5ec67",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550300_image_55.png",
+            "trim": {
+              "x": 801,
+              "y": 673,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/08/085d7ce8-5790-4c0d-8743-387c52e5ec67.png",
+            "x": 798,
+            "y": 670,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "x6_0",
+            "uuid": "da66421a-7d1b-48b7-af61-617032c8d6ed",
+            "textureUuid": "035c6db0-d878-4c0d-b448-78c954efba83",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550300_image_56.png",
+            "trim": {
+              "x": 801,
+              "y": 807,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/03/035c6db0-d878-4c0d-b448-78c954efba83.png",
+            "x": 798,
+            "y": 804,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          }
+        ],
+        "width": 932,
+        "height": 938,
+        "name": "textures-2",
+        "imagePath": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\TexturePacker\\build\\native\\assets\\neutrinoparticles\\textures\\textures.pac\\textures-2.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\TexturePacker\\build\\native\\assets\\neutrinoparticles\\textures\\textures.pac\\compressed\\textures-2"
+        }
+      },
+      {
+        "files": [
+          {
+            "name": "ring_1",
+            "uuid": "8dfb1fea-8f17-4310-99dd-9cf2015803c0",
+            "textureUuid": "01448df4-c512-4e7a-ae6d-6572addb9e50",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550297_image_35.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 256,
+              "height": 256,
+              "rotatedWidth": 256,
+              "rotatedHeight": 256
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 262,
+            "height": 262,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/01/01448df4-c512-4e7a-ae6d-6572addb9e50.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 262,
+            "rotatedHeight": 262
+          },
+          {
+            "name": "iris",
+            "uuid": "9552a7ed-d1a3-4b2c-ac23-6dc416802bca",
+            "textureUuid": "1d23c5c2-dc8b-445b-a6e5-5aaf00f941e5",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550297_image_38.png",
+            "trim": {
+              "x": 3,
+              "y": 265,
+              "width": 256,
+              "height": 256,
+              "rotatedWidth": 256,
+              "rotatedHeight": 256
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 262,
+            "height": 262,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/1d/1d23c5c2-dc8b-445b-a6e5-5aaf00f941e5.png",
+            "x": 0,
+            "y": 262,
+            "rotatedWidth": 262,
+            "rotatedHeight": 262
+          },
+          {
+            "name": "star_1",
+            "uuid": "9ad8938e-6020-4492-b036-3dea954c330f",
+            "textureUuid": "16111d54-f1fe-4c94-8f13-8c9a9fc7b208",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550298_image_40.png",
+            "trim": {
+              "x": 3,
+              "y": 527,
+              "width": 256,
+              "height": 256,
+              "rotatedWidth": 256,
+              "rotatedHeight": 256
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 262,
+            "height": 262,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/16/16111d54-f1fe-4c94-8f13-8c9a9fc7b208.png",
+            "x": 0,
+            "y": 524,
+            "rotatedWidth": 262,
+            "rotatedHeight": 262
+          },
+          {
+            "name": "i0",
+            "uuid": "e26e3e36-25d3-4961-abf6-42d94f79c62d",
+            "textureUuid": "39880337-8ede-4025-becc-a6764a00e543",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550301_image_60.png",
+            "trim": {
+              "x": 3,
+              "y": 789,
+              "width": 128,
+              "height": 128,
+              "rotatedWidth": 128,
+              "rotatedHeight": 128
+            },
+            "rawWidth": 128,
+            "rawHeight": 128,
+            "width": 134,
+            "height": 134,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/39/39880337-8ede-4025-becc-a6764a00e543.png",
+            "x": 0,
+            "y": 786,
+            "rotatedWidth": 134,
+            "rotatedHeight": 134
+          },
+          {
+            "name": "divine",
+            "uuid": "a2b19bc8-6749-4ec9-9d9c-c4fbf14e52c7",
+            "textureUuid": "bd653cd1-7447-43b8-95ab-555c148ce7d7",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550298_image_42.png",
+            "trim": {
+              "x": 265,
+              "y": 3,
+              "width": 256,
+              "height": 256,
+              "rotatedWidth": 256,
+              "rotatedHeight": 256
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 262,
+            "height": 262,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/bd/bd653cd1-7447-43b8-95ab-555c148ce7d7.png",
+            "x": 262,
+            "y": 0,
+            "rotatedWidth": 262,
+            "rotatedHeight": 262
+          },
+          {
+            "name": "pollen",
+            "uuid": "aeda6417-405c-4d77-a39c-b3d27676b1fc",
+            "textureUuid": "c3bc1c2e-807c-4c6d-aa35-f365db1e7611",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550298_image_45.png",
+            "trim": {
+              "x": 527,
+              "y": 3,
+              "width": 256,
+              "height": 256,
+              "rotatedWidth": 256,
+              "rotatedHeight": 256
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 262,
+            "height": 262,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/c3/c3bc1c2e-807c-4c6d-aa35-f365db1e7611.png",
+            "x": 524,
+            "y": 0,
+            "rotatedWidth": 262,
+            "rotatedHeight": 262
+          },
+          {
+            "name": "sun_1",
+            "uuid": "b02fe061-7803-416b-8a90-a37ed870ce4c",
+            "textureUuid": "9be6969d-f8af-4bdd-bc00-c5ea7ace6539",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550299_image_48.png",
+            "trim": {
+              "x": 265,
+              "y": 265,
+              "width": 256,
+              "height": 256,
+              "rotatedWidth": 256,
+              "rotatedHeight": 256
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 262,
+            "height": 262,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/9b/9be6969d-f8af-4bdd-bc00-c5ea7ace6539.png",
+            "x": 262,
+            "y": 262,
+            "rotatedWidth": 262,
+            "rotatedHeight": 262
+          },
+          {
+            "name": "explosions3",
+            "uuid": "c97cb070-7f95-4a35-bb39-83bd7e1ee771",
+            "textureUuid": "9cac9714-baee-4aac-a822-72c99aa27d15",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550300_image_52.png",
+            "trim": {
+              "x": 265,
+              "y": 527,
+              "width": 256,
+              "height": 256,
+              "rotatedWidth": 256,
+              "rotatedHeight": 256
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 262,
+            "height": 262,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/9c/9cac9714-baee-4aac-a822-72c99aa27d15.jpg",
+            "x": 262,
+            "y": 524,
+            "rotatedWidth": 262,
+            "rotatedHeight": 262
+          },
+          {
+            "name": "starring_1",
+            "uuid": "d64a138a-be6a-44b1-b3f5-24caff8a0c61",
+            "textureUuid": "99b219af-3a41-405c-a477-f2322f6bd25e",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550300_image_54.png",
+            "trim": {
+              "x": 527,
+              "y": 265,
+              "width": 256,
+              "height": 256,
+              "rotatedWidth": 256,
+              "rotatedHeight": 256
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 262,
+            "height": 262,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/99/99b219af-3a41-405c-a477-f2322f6bd25e.png",
+            "x": 524,
+            "y": 262,
+            "rotatedWidth": 262,
+            "rotatedHeight": 262
+          },
+          {
+            "name": "pearlring_0",
+            "uuid": "de7082ef-6bee-474a-acc8-d55267a6d538",
+            "textureUuid": "929df9db-d514-423c-80fa-f88637e5ed22",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550300_image_57.png",
+            "trim": {
+              "x": 527,
+              "y": 527,
+              "width": 256,
+              "height": 256,
+              "rotatedWidth": 256,
+              "rotatedHeight": 256
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 262,
+            "height": 262,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/92/929df9db-d514-423c-80fa-f88637e5ed22.png",
+            "x": 524,
+            "y": 524,
+            "rotatedWidth": 262,
+            "rotatedHeight": 262
+          }
+        ],
+        "width": 786,
+        "height": 920,
+        "name": "textures-3",
+        "imagePath": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\TexturePacker\\build\\native\\assets\\neutrinoparticles\\textures\\textures.pac\\textures-3.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\TexturePacker\\build\\native\\assets\\neutrinoparticles\\textures\\textures.pac\\compressed\\textures-3"
+        }
+      },
+      {
+        "files": [
+          {
+            "name": "flare_red",
+            "uuid": "de8dc6c9-dddd-4847-b93e-650da128b6db",
+            "textureUuid": "cb24f05c-0d45-43a0-97a8-c60f26e8a5f5",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550301_image_58.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 256,
+              "height": 256,
+              "rotatedWidth": 256,
+              "rotatedHeight": 256
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 262,
+            "height": 262,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/cb/cb24f05c-0d45-43a0-97a8-c60f26e8a5f5.jpg",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 262,
+            "rotatedHeight": 262
+          },
+          {
+            "name": "pearl_0",
+            "uuid": "e0f04d4e-1ef8-4402-a56b-a76cc38e3e11",
+            "textureUuid": "650556f9-1e88-4584-9e98-1531153b0b08",
+            "path": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\trimImages\\spritesheet_js_1743351550301_image_59.png",
+            "trim": {
+              "x": 3,
+              "y": 265,
+              "width": 256,
+              "height": 256,
+              "rotatedWidth": 256,
+              "rotatedHeight": 256
+            },
+            "rawWidth": 256,
+            "rawHeight": 256,
+            "width": 262,
+            "height": 262,
+            "originalPath": "D:/CongViec_HocTap/CongTy/Amobear/OutSource/GoodSort/library/imports/65/650556f9-1e88-4584-9e98-1531153b0b08.png",
+            "x": 0,
+            "y": 262,
+            "rotatedWidth": 262,
+            "rotatedHeight": 262
+          }
+        ],
+        "width": 262,
+        "height": 524,
+        "name": "textures-4",
+        "imagePath": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\TexturePacker\\build\\native\\assets\\neutrinoparticles\\textures\\textures.pac\\textures-4.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "D:\\CongViec_HocTap\\CongTy\\Amobear\\OutSource\\GoodSort\\temp\\TexturePacker\\build\\native\\assets\\neutrinoparticles\\textures\\textures.pac\\compressed\\textures-4"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "acne_core",
+    "texture": "e8f8086d-4038-493a-b1b7-6bc8bf16852f",
+    "atlas": "",
+    "rect": [
+      10,
+      5,
+      76,
+      105
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      98,
+      115
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

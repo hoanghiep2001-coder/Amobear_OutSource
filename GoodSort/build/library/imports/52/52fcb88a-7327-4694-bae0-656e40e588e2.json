@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tweezer_01",
+    "texture": "d219228a-5015-4c1d-ab1a-862dd2a2c51b",
+    "atlas": "",
+    "rect": [
+      13,
+      21,
+      1056,
+      91
+    ],
+    "offset": [
+      1,
+      1
+    ],
+    "originalSize": [
+      1080,
+      135
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
