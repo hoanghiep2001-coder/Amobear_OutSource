@@ -41,6 +41,13 @@ export default class Item extends cc.Component {
   setLock(isLock: boolean) {
     this.isLock = isLock;
   }
+
+
+  setActiveWithCart(isActive: boolean): void {
+    this.node.active = isActive;
+  }
+
+
   setActive(isActive: boolean) {
     this.isLock = !isActive;
     if (!isActive) {
@@ -129,6 +136,7 @@ export default class Item extends cc.Component {
         }
         else {
           this._Board.handleCompleteGenerate();
+          
         }
         this._Board.hideItemsLayer(layer + 2);
       })

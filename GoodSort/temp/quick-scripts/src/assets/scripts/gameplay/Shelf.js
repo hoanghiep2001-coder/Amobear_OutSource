@@ -91,6 +91,7 @@ var Shelf = /** @class */ (function (_super) {
             .add(new cc.Vec2(0, layer * GameConfig_1.layoutConfig.backItemOffsetY)));
         var itemPos = parent.convertToNodeSpaceAR(tempPos);
         item.node.setParent(parent);
+        GameConfig_1.ConfigData.OutSource.isHasCart && item.setActiveWithCart(false);
         !GameConfig_1.ConfigData.OutSource.isHasCart && item.node.setPosition(itemPos);
         var behindPos = parent.convertToNodeSpaceAR(tempBehindPos);
         this._itemContainer = parent;
@@ -98,8 +99,11 @@ var Shelf = /** @class */ (function (_super) {
             this.slots[positionIndex].setItem(item);
             item.setSlot(this.slots[positionIndex]);
         }
-        // item.handleMoveToBehind(behindPos, layer);
-        GameConfig_1.ConfigData.OutSource.isHasCart ? item.itemPos = behindPos : item.handleMoveToBehind(behindPos, layer);
+        item.handleMoveToBehind(behindPos, layer);
+        GameConfig_1.ConfigData.OutSource.isHasCart && (function () {
+            item.itemPos = behindPos;
+        })();
+        // ConfigData.OutSource.isHasCart ? item.itemPos = behindPos : item.handleMoveToBehind(behindPos, layer);
         item.setIndex(positionIndex);
         // item.node.setScale(0.1, 0.1);
         return item;

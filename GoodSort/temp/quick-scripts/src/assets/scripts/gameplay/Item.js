@@ -54,6 +54,9 @@ var Item = /** @class */ (function (_super) {
     Item.prototype.setLock = function (isLock) {
         this.isLock = isLock;
     };
+    Item.prototype.setActiveWithCart = function (isActive) {
+        this.node.active = isActive;
+    };
     Item.prototype.setActive = function (isActive) {
         this.isLock = !isActive;
         if (!isActive) {

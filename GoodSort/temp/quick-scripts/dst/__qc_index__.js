@@ -15,6 +15,7 @@ require('./assets/scripts/Board');
 require('./assets/scripts/CollisionManager');
 require('./assets/scripts/Combo');
 require('./assets/scripts/ComboEffect');
+require('./assets/scripts/Component/Cart');
 require('./assets/scripts/Component/ProgressBar');
 require('./assets/scripts/Component/Responsive');
 require('./assets/scripts/Component/Rocket');

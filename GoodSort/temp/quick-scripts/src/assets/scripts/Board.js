@@ -56,8 +56,19 @@ var Board = /** @class */ (function (_super) {
         _this.shelves = [];
         _this.firstMatchId = -1;
         _this.AdsManager = null;
+        _this._items = [];
+        _this.cart = null;
+        _this.cart_2 = null;
         _this._isCallCompleteGen = false;
+        _this._boardTruePos = new cc.Vec2(10, -400);
         _this.isClickedStartCart = false;
+        _this.cartBounds = {
+            xMin: 0,
+            xMax: 0,
+            yMin: 0,
+            yMax: 0,
+        };
+        _this._isPuttedToCart = false;
         return _this;
     }
     Board_1 = Board;
@@ -247,7 +258,7 @@ var Board = /** @class */ (function (_super) {
         var _loop_3 = function (layer) {
             var lay = layer;
             this_2.scheduleOnce(function () {
-                var items = [];
+                // let items: Item[] = [];
                 _this.shelves.forEach(function (shelf, index1) {
                     if (index1 == firstMatchShelf && lay == 0) {
                         var rIndex = Math.floor(Math.random() * ids.length);
@@ -288,25 +299,25 @@ var Board = /** @class */ (function (_super) {
                             }
                             ids[rIndex]--;
                             var item = shelf.addItem(rIndex, index, lay, _this.itemContainer, _this, _this.Config);
-                            items.push(item);
+                            _this._items.push(item);
                         }
                     }
                 });
                 for (var k = 0; k < randomEmptySlots[lay] / 3; k++) {
-                    var rIndex = Math.floor(Math.random() * items.length);
-                    ids[items[rIndex].id] += 3;
+                    var rIndex = Math.floor(Math.random() * _this._items.length);
+                    ids[_this._items[rIndex].id] += 3;
                     if (lay == 0) {
-                        items[rIndex].currentSlot.setEmpty();
+                        _this._items[rIndex].currentSlot.setEmpty();
                     }
                     else {
                         for (var m = 0; m < _this.shelves.length; m++) {
-                            _this.shelves[m].removeItem(items[rIndex]);
+                            _this.shelves[m].removeItem(_this._items[rIndex]);
                         }
                     }
                     var remain = 2;
-                    for (var m = 0; m < items.length; m++) {
-                        if (items[m].id == items[rIndex].id && items[rIndex] !== items[m]) {
-                            var it = items[m];
+                    for (var m = 0; m < _this._items.length; m++) {
+                        if (_this._items[m].id == _this._items[rIndex].id && _this._items[rIndex] !== _this._items[m]) {
+                            var it = _this._items[m];
                             if (lay == 0) {
                                 it.currentSlot.setEmpty();
                             }
@@ -321,7 +332,7 @@ var Board = /** @class */ (function (_super) {
                                 break;
                         }
                     }
-                    items[rIndex].node.destroy();
+                    _this._items[rIndex].node.destroy();
                 }
                 if (lay == 0) {
                     var added_1 = false;
@@ -346,13 +357,18 @@ var Board = /** @class */ (function (_super) {
         var _this = this;
         if (this._isCallCompleteGen)
             return;
-        if (GameConfig_1.ConfigData.OutSource.isHasCart && !this.isClickedStartCart)
+        if (GameConfig_1.ConfigData.OutSource.isHasCart && !this.isClickedStartCart) {
+            this.cart.active = true;
+            this.putItemsToCart();
+            this._isCallCompleteGen = true;
             return;
+        }
         this.boardState = BoardState.Playing;
         this._isCallCompleteGen = true;
         this.shelfContainer.children.reverse().forEach(function (child, index) {
             child.setSiblingIndex(index);
         });
+        cc.tween(this.node).to(0.25, { x: this._boardTruePos.x, y: this._boardTruePos.y }, { easing: cc.easing.sineIn }).start();
         cc.tween(this.shelfContainer).to(0.25, { scale: 1 }, { easing: "quadOut" }).start();
         cc.tween(this.itemContainer).to(0.25, { scale: 1 }, { easing: "quadOut" }).call(function () {
             _this.scheduleOnce(function () {
@@ -363,6 +379,28 @@ var Board = /** @class */ (function (_super) {
                 // cc.log("gen completed!");
             }, 0.5);
         }).start();
+    };
+    Board.prototype.putItemsToCart = function () {
+        var _this = this;
+        if (this._isPuttedToCart)
+            return;
+        this._isPuttedToCart = true;
+        this._items.forEach(function (item, index) {
+            if (!item || !item.node) {
+                console.warn("item null");
+                return; // Bỏ qua item lỗi để tránh crash
+            }
+            // Tạo vị trí ngẫu nhiên trong cart
+            // let randomX = Math.random() * (this.cartBounds.xMax - this.cartBounds.xMin) + this.cartBounds.xMin;
+            // let randomY = Math.random() * (this.cartBounds.yMax - this.cartBounds.yMin) + this.cartBounds.yMin;
+            var randomRotation = Math.random() * 360;
+            // Gán parent và thiết lập thuộc tính
+            item.node.parent = _this.cart_2;
+            item.node.setPosition(item.node.getPosition());
+            item.node.setRotation(randomRotation);
+            item.node.active = true;
+            console.log(item.node);
+        });
     };
     Board.prototype.findFirstEmptySlot = function () {
         for (var i = 0; i < this.shelves.length; i++) {
@@ -431,6 +469,12 @@ var Board = /** @class */ (function (_super) {
     __decorate([
         property(AdsManager_1.AdsManager)
     ], Board.prototype, "AdsManager", void 0);
+    __decorate([
+        property(cc.Node)
+    ], Board.prototype, "cart", void 0);
+    __decorate([
+        property(cc.Node)
+    ], Board.prototype, "cart_2", void 0);
     Board = Board_1 = __decorate([
         ccclass
         // @executeInEditMode

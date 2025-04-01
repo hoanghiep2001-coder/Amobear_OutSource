@@ -190,7 +190,7 @@ export default class Board extends cc.Component {
     const size: cc.Size = this.shelfPrefab.data.getContentSize();
     const { row, col } = levelConfig;
     console.log(this.node.children);
-    
+
     let possiblePositions: { i: number, j: number }[] = [];
 
     for (let i = 0; i < row; i++) {
@@ -271,6 +271,7 @@ export default class Board extends cc.Component {
   }
 
 
+  _items: Item[] = [];
   generateLayerItems() {
     const randomEmptySlots: number[] = this.randomEmpty(
       levelConfig.numberLayer
@@ -297,7 +298,7 @@ export default class Board extends cc.Component {
       let lay = layer;
       this.scheduleOnce(() => {
 
-        let items: Item[] = [];
+        // let items: Item[] = [];
         this.shelves.forEach((shelf, index1) => {
           if (index1 == firstMatchShelf && lay == 0) {
             let rIndex = Math.floor(Math.random() * ids.length);
@@ -341,25 +342,25 @@ export default class Board extends cc.Component {
               }
               ids[rIndex]--;
               let item: Item = shelf.addItem(rIndex, index, lay, this.itemContainer, this, this.Config)
-              items.push(item);
+              this._items.push(item);
             }
           }
 
         });
         for (let k = 0; k < randomEmptySlots[lay] / 3; k++) {
-          const rIndex = Math.floor(Math.random() * items.length);
-          ids[items[rIndex].id] += 3;
+          const rIndex = Math.floor(Math.random() * this._items.length);
+          ids[this._items[rIndex].id] += 3;
           if (lay == 0) {
-            items[rIndex].currentSlot.setEmpty();
+            this._items[rIndex].currentSlot.setEmpty();
           } else {
             for (let m = 0; m < this.shelves.length; m++) {
-              this.shelves[m].removeItem(items[rIndex]);
+              this.shelves[m].removeItem(this._items[rIndex]);
             }
           }
           let remain = 2;
-          for (let m = 0; m < items.length; m++) {
-            if (items[m].id == items[rIndex].id && items[rIndex] !== items[m]) {
-              const it = items[m];
+          for (let m = 0; m < this._items.length; m++) {
+            if (this._items[m].id == this._items[rIndex].id && this._items[rIndex] !== this._items[m]) {
+              const it = this._items[m];
               if (lay == 0) {
                 it.currentSlot.setEmpty();
               } else {
@@ -373,7 +374,7 @@ export default class Board extends cc.Component {
             }
           }
 
-          items[rIndex].node.destroy();
+          this._items[rIndex].node.destroy();
         }
         if (lay == 0) {
           let added = false;
@@ -391,20 +392,29 @@ export default class Board extends cc.Component {
     }
   }
 
-
+  @property(cc.Node)
+  cart: cc.Node = null;
+  @property(cc.Node)
+  cart_2: cc.Node = null;
   _isCallCompleteGen: boolean = false;
-
+  _boardTruePos: cc.Vec2 = new cc.Vec2(10, -400);
   isClickedStartCart: boolean = false;
   handleCompleteGenerate() {
-    if(this._isCallCompleteGen) return;
+    if (this._isCallCompleteGen) return;
 
-    if(ConfigData.OutSource.isHasCart && !this.isClickedStartCart) return;
+    if (ConfigData.OutSource.isHasCart && !this.isClickedStartCart) {
+      this.cart.active = true;
+      this.putItemsToCart();
+      this._isCallCompleteGen = true;
+      return;
+    }
 
     this.boardState = BoardState.Playing;
     this._isCallCompleteGen = true;
     this.shelfContainer.children.reverse().forEach((child, index) => {
       child.setSiblingIndex(index);
     });
+    cc.tween(this.node).to(0.25, { x: this._boardTruePos.x, y: this._boardTruePos.y }, { easing: cc.easing.sineIn }).start()
     cc.tween(this.shelfContainer).to(0.25, { scale: 1 }, { easing: "quadOut" }).start();
     cc.tween(this.itemContainer).to(0.25, { scale: 1 }, { easing: "quadOut" }).call(() => {
       this.scheduleOnce(() => {
@@ -415,6 +425,41 @@ export default class Board extends cc.Component {
         // cc.log("gen completed!");
       }, 0.5)
     }).start();
+  }
+
+  cartBounds = {
+    xMin: 0,  // Giới hạn trái của cart
+    xMax: 0,   // Giới hạn phải của cart
+    yMin: 0,    // Độ cao thấp nhất (sàn của cart)
+    yMax: 0,   // Độ cao tối đa (để tránh item bay quá cao)
+  };
+  _isPuttedToCart: boolean = false
+  private putItemsToCart(): void {
+    if (this._isPuttedToCart) return;
+    this._isPuttedToCart = true;
+  
+    this._items.forEach((item, index) => {
+      if (!item || !item.node) {
+        console.warn(`item null`);
+        return; // Bỏ qua item lỗi để tránh crash
+      }
+  
+      // Tạo vị trí ngẫu nhiên trong cart
+      // let randomX = Math.random() * (this.cartBounds.xMax - this.cartBounds.xMin) + this.cartBounds.xMin;
+      // let randomY = Math.random() * (this.cartBounds.yMax - this.cartBounds.yMin) + this.cartBounds.yMin;
+      let randomRotation = Math.random() * 360;
+  
+      // Gán parent và thiết lập thuộc tính
+      item.node.parent = this.cart_2;
+      item.node.setPosition(item.node.getPosition());
+      item.node.setRotation(randomRotation);
+      item.node.active = true;
+
+      console.log(item.node);
+      
+    });
+
+    
   }
 
 
