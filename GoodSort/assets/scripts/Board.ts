@@ -427,12 +427,7 @@ export default class Board extends cc.Component {
     }).start();
   }
 
-  cartBounds = {
-    xMin: 0,  // Giới hạn trái của cart
-    xMax: 0,   // Giới hạn phải của cart
-    yMin: 0,    // Độ cao thấp nhất (sàn của cart)
-    yMax: 0,   // Độ cao tối đa (để tránh item bay quá cao)
-  };
+
   _isPuttedToCart: boolean = false
   private putItemsToCart(): void {
     if (this._isPuttedToCart) return;
@@ -444,9 +439,6 @@ export default class Board extends cc.Component {
         return; // Bỏ qua item lỗi để tránh crash
       }
   
-      // Tạo vị trí ngẫu nhiên trong cart
-      // let randomX = Math.random() * (this.cartBounds.xMax - this.cartBounds.xMin) + this.cartBounds.xMin;
-      // let randomY = Math.random() * (this.cartBounds.yMax - this.cartBounds.yMin) + this.cartBounds.yMin;
       let randomRotation = Math.random() * 360;
   
       // Gán parent và thiết lập thuộc tính
